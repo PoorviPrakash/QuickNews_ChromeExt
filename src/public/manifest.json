@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Quick News",
+  "version": "1.0",
+  "description": "Search the latest news of any company at one go",
+  "action": {
+    "default_popup": "./index.html"
+  },
+  "icons": {
+    "32":"./icons8-news-32.png",
+    "48":"./icons8-news-48.png"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+      "https://*/",
+      "http://*/"
+  ]
+}
