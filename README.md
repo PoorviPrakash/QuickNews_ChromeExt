@@ -1,6 +1,6 @@
 # QuickNews_ChromeExt
  
-# INSPIRATION
+### INSPIRATION
 
 
 My main source of inspiration stems from the belief that in order to successfully engage with potential clients, sales executives, marketing executives, research teams, and customer service teams must remain up-to-date with the latest developments in their respective industries. Whether it's a new investment or a technological breakthrough, it's essential that they have a comprehensive understanding of the client's business moves.
@@ -11,7 +11,7 @@ Ultimately, this approach can help improve the effectiveness of outreach efforts
 
 Moreover, The extension can save valuable time and effort by allowing executives to research news articles related to the company or trend they are interested in without having to open a new tab or switch to a separate search engine. With this streamlined approach, they can stay focused on their work while quickly accessing the information they need to engage with potential clients effectively. This convenience factor can help improve productivity and ultimately contribute to the overall success of the organization.
 
-# INSTALLATION PROCEDURE
+### INSTALLATION PROCEDURE
 
 To install the chrome extension, please follow the steps below - 
 
@@ -25,7 +25,7 @@ To install the chrome extension, please follow the steps below -
 8. The "Quick News" extension should be loaded and ready to use.
 9. For easy access, pin the extension on the task bar.
 
-# USING THE EXTENSION
+### USING THE EXTENSION
 
 To get latest news - 
 
