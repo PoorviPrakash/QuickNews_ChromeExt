@@ -1,0 +1,2 @@
+# QuickNews_ChromeExt
+ 
